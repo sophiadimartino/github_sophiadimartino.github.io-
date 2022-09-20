@@ -1,3 +1,7 @@
-body {background-image: img src="mybackground.jpg";}
+<style>
+    body {
+ background-image: img src="mybackground.jpg";
+}
+  </style>
 #nav-table {width: 800px;}
 #nav-td {width: 200px; text-align:center;}
